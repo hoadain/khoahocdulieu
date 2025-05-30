@@ -23,7 +23,7 @@ Xây dựng mô hình dự báo điểm thi dựa trên các thông tin học t�
 - **Visualization** điểm theo môn học (trực quan hóa dữ liệu điểm số)
 
 ## Video demo
-🔗 [Link video demo](https://drive.google.com/drive/quota)
+[🔗 [Link video demo](https://drive.google.com/drive/quota)](https://drive.google.com/file/d/109drUm_bJcmaev5-tE9PDZKwAGHnvlYl/view?usp=sharing)
 
 ---
 
